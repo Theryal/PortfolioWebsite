@@ -1,0 +1,52 @@
+body {
+    --bs-body-bg: #EDEDED;
+}
+
+#prof-wrapper {
+    text-align: center;
+    justify-content: center;
+
+}
+
+#prof-pic {
+    width: 200px;
+    height: 200px;
+    margin-right: auto;
+    margin-left: auto;
+    border-radius: 50%;
+}
+
+ul {
+    padding: 0;
+    list-style-type: none;
+}
+
+.social-links ul, li {
+    list-style-type: none;
+    display: inline-block;
+}
+
+.social {
+    width: 20px;
+    height: 20px;
+}
+
+#WamI {
+    justify-content: center;
+}
+
+#WiK {
+    justify-content: center;
+}
+
+#Exp {
+    justify-content: center;
+}
+
+#Goals {
+    justify-content: center;
+}
+
+#Career {
+    justify-content: center;
+}
